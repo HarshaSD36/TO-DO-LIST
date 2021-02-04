@@ -118,7 +118,3 @@ function filterTodo(e){
     }
 };
 
-function saveLocalTodos(todo)
-{
-    
-}
